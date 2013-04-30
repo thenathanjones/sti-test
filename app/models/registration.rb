@@ -3,5 +3,5 @@ class Registration < ActiveRecord::Base
 
   attr_accessible :received_date
 
-  validates_date :received_date
+  # validates_date :received_date
 end
