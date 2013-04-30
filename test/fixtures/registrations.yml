@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  regulatory_object_id: 1
+  organisation_id: 1
+  outcome: MyString
+  type_fields: MyText
+  objective_file_id: MyString
+  effective_date: 2013-04-19 18:26:02
+
+two:
+  regulatory_object_id: 1
+  organisation_id: 1
+  outcome: MyString
+  type_fields: MyText
+  objective_file_id: MyString
+  effective_date: 2013-04-19 18:26:02
